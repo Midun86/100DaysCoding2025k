@@ -1,0 +1,15 @@
+public class Main {
+    
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        
+        // DekIarasi variabel
+        short value = 2;
+        
+        // Output
+        System.out.println("Nilai dari short= " + value);
+        
+        
+    }
+    
+}
