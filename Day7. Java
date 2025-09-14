@@ -1,0 +1,13 @@
+public class Main {
+    
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        
+        char initial = 'B'; // Menyimpan huruf 'B'
+        char symbol = '!'; // Menyimpan simbol tanda
+        
+        boolean isAdult = true; // Menandakan seseorang adalah dewasa (benar)
+         boolean isGameOver = false; // Menandakan permainan belum berakhir (salah)
+    }
+    
+}
