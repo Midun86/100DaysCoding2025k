@@ -1,0 +1,13 @@
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        int skor = 100 ; // Deklarasi dan inisialisasi
+        System.out.println("skor awal: " + skor); //otput: skor awal: 100
+        
+        skor = 150; // mengupdate nilai skor
+        System.out.println("skor setelah oupdate: " + skor); // output: skor setelah update: 150
+        
+    }
+    
+}
