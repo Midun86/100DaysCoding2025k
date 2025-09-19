@@ -1,0 +1,21 @@
+import java.util.Scanner; 
+
+public class Main {
+    
+    public static void main(String[] args) {
+        String Nama = "Midun";
+        String alamat = "pamboang";
+        String telepon = "085191527617";
+        String email = "Midund@email.com";
+        
+        System.out.println("--- Biodata Saya ---");
+        System.out.println("Nama    : " + Nama);
+        System.out.println("Alamat  : " + alamat);
+        System.out.println("Telepon : " + telepon);
+        System.out.println("Email   : " + email);
+        System.out.println("--------------------");
+        
+        
+    }
+    
+}
