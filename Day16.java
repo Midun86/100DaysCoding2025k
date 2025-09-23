@@ -12,7 +12,7 @@ public class Main {
         int u = 8;
         int k = 2;
         int hasilpembagian = u/k;
-        System.out.println("pembagiab + pembagian=" + hasilperkalian);
+        System.out.println("pembagian + pembagian=" + hasilpembagian);
         
     }
     
