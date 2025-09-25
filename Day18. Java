@@ -1,0 +1,28 @@
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        byte b = 10; 
+        short s = b;  
+        int i = s;    
+        long l = i;   
+        float f = l;  
+        double d = f;
+
+        System.out.println("Nilai byte: " + b);
+        System.out.println("Nilai short: " + s);
+        System.out.println("Nilai int: " + i);
+        System.out.println("Nilai long: " + l);
+        System.out.println("Nilai float: " + f);
+        System.out.println("Nilai double: " + d);
+
+        
+        int numInt = 25;
+        double numDouble = numInt;
+
+        System.out.println("\nNilai int: " + numInt);
+        System.out.println("Nilai double: " + numDouble);
+        
+    }
+    
+}
